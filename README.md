@@ -1,6 +1,6 @@
 # 🐍 Kaggle Python Programming
 
-This repository contains code solutions 🧠 and explanations 📘 for the **[Kaggle Python Course](https://www.kaggle.com/learn/python)**. It's designed to help beginners strengthen their Python foundations through hands-on coding exercises and clear, concise explanations.
+This repository contains code solutions and explanations for the **[Kaggle Python Course](https://www.kaggle.com/learn/python)**. It's designed to help beginners strengthen their Python foundations through hands-on coding exercises and clear, concise explanations.
 
 ---
 
