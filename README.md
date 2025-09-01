@@ -36,13 +36,13 @@ Configuration and practice exercises are structured with **YAML/JSON templates**
 
 kaggle-python-programming/
 
-1 hello_python/ # Exercises and solutions for basic syntax and variables
-2_functions/ # Function definitions and usage examples
-3_booleans_conditionals/ # Conditional logic exercises
-4_lists/ # List operations and comprehension exercises
-5_loops_list_comprehensions/ # Loops and comprehension exercises
-6_strings_dictionaries/ # String and dictionary practice
-7_external_libraries/ # Examples with NumPy and Pandas
+- 1 hello_python/ # Exercises and solutions for basic syntax and variables
+- 2_functions/ # Function definitions and usage examples
+- 3_booleans_conditionals/ # Conditional logic exercises
+- 4_lists/ # List operations and comprehension exercises
+- 5_loops_list_comprehensions/ # Loops and comprehension exercises
+- 6_strings_dictionaries/ # String and dictionary practice
+- 7_external_libraries/ # Examples with NumPy and Pandas
 
 ## Technology Used
 
